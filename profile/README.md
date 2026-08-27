@@ -6,7 +6,7 @@ alt="제대로 — 군 생활의 시작부터 전역까지 함께하는 군 특�
 <br>
 
  <a href="https://jaedaero-frontend.vercel.app">
-    <img src="./assets/logo.svg" width="80" alt="제대로 로고">
+    <img src="./assets/logo.png" width="80" alt="제대로 로고">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://jaedaero-frontend.vercel.app">
