@@ -27,7 +27,7 @@ KB IT's Your Life 7기 최종 프로젝트
 
 ---
 
-## 👥 팀 제대로
+## 👥 팀 벨롱벨롱
 
 <table align="center">
   <tr>
