@@ -29,7 +29,7 @@ KB IT's Your Life 7기 최종 프로젝트
 
 ## 👥 팀 제대로
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_doheon.jpeg"
@@ -71,7 +71,7 @@ KB IT's Your Life 7기 최종 프로젝트
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_seonghun.jpeg"
