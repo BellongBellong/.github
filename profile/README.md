@@ -141,14 +141,14 @@ What-if 시뮬레이션을 통해 소비·저축·투자 계획에 따른 전역
 
 | `01` 온보딩·계좌 연결 | `02` 전역 자산 확인 | `03` What-if 시뮬레이션 |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-onboarding.png" width="210" alt="군 정보 입력과 금융기관 계좌 연결 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-dashboard.png" width="210" alt="현재 자산과 전역 예상 자산을 보여주는 대시보드"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-whatif.png" width="210" alt="저축 투자 소비 계획을 변경하는 What-if 화면"> |
+| <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-onboarding.png" width="280" alt="군 정보 입력과 금융기관 계좌 연결 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-dashboard.png" width="280" alt="현재 자산과 전역 예상 자산을 보여주는 대시보드"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-whatif.png" width="280" alt="저축 투자 소비 계획을 변경하는 What-if 화면"> |
 | 군종·입대일·목표를 입력하고<br>금융계좌를 연결합니다. | 현재 자산과 목표 달성률,<br>재정적 전역일을 확인합니다. | 월 저축·투자·소비를 바꾸고<br>전역 자산 변화를 비교합니다. |
 
 <br>
 
 | `04` AI 금융 코칭 | `05` 군 생활 관리 | `06` 성장 기록 |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-ai.png" width="210" alt="AI 자산 분석과 ETF 추천 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-leave.png" width="210" alt="휴가 예산과 휴가 기간 소비를 보여주는 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-mission.png" width="210" alt="미션 챌린지 뱃지를 보여주는 화면"> |
+| <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-ai.png" width="280" alt="AI 자산 분석과 ETF 추천 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-leave.png" width="280" alt="휴가 예산과 휴가 기간 소비를 보여주는 화면"> | <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/screen-mission.png" width="280" alt="미션 챌린지 뱃지를 보여주는 화면"> |
 | 연결 자산과 투자성향을 분석해<br>금융 전략과 ETF를 추천합니다. | 휴가 예산과 기간 내 소비,<br>군인 혜택을 관리합니다. | 미션과 챌린지를 수행하며<br>금융 습관을 기록합니다. |
 
 ---
