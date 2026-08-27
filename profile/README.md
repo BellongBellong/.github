@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/img/overview.png"
+<img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/overview.png"
 alt="제대로 — 군 생활의 시작부터 전역까지 함께하는 군 특화 AI 자산관리 서비스">
 
 <br>
@@ -32,7 +32,7 @@ KB IT's Your Life 7기 최종 프로젝트
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_doheon.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_doheon.jpeg"
            width="180"
            alt="임도헌 프로필">
       <br>
@@ -43,7 +43,7 @@ KB IT's Your Life 7기 최종 프로젝트
       <a href="https://github.com/Limdoheon1">@Limdoheon1</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_yujeong.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_yujeong.jpeg"
            width="180"
            alt="주유정 프로필">
       <br>
@@ -54,7 +54,7 @@ KB IT's Your Life 7기 최종 프로젝트
       <a href="https://github.com/sampyu1452">@sampyu1452</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_darae.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_darae.jpeg"
            width="180"
            alt="최다래 프로필">
       <br>
@@ -74,7 +74,7 @@ KB IT's Your Life 7기 최종 프로젝트
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_seonghun.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_seonghun.jpeg"
            width="180"
            alt="박성훈 프로필">
       <br>
@@ -87,7 +87,7 @@ KB IT's Your Life 7기 최종 프로젝트
       <a href="https://github.com/shpark47">@shpark47</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_seunghwan.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_seunghwan.jpeg"
            width="180"
            alt="양승환 프로필">
       <br>
@@ -100,7 +100,7 @@ KB IT's Your Life 7기 최종 프로젝트
       <a href="https://github.com/yang5864">@yang5864</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/assets/profile_yunho.jpeg"
+      <img src="https://raw.githubusercontent.com/BellongBellong/.github/main/profile/assets/profile_yunho.jpeg"
            width="180"
            alt="최윤호 프로필">
       <br>
