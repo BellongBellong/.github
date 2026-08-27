@@ -8,7 +8,7 @@ alt="제대로 — 군 생활의 시작부터 전역까지 함께하는 군 특�
  <a href="https://jaedaero-frontend.vercel.app">
     <img src="./assets/logo.png" width="80" alt="제대로 로고">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
   <a href="https://jaedaero-frontend.vercel.app">
     <img src="https://img.shields.io/badge/제대로_서비스_바로가기-35C978?style=for-the-badge"
          alt="제대로 서비스 바로가기">
